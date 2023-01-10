@@ -38,7 +38,7 @@
 // Console.Write("max = ");
 // Console.WriteLine(max);
 
-Console.Clear();
+// Console.Clear();
 // Console.SetCursorPosition(10, 4);
 // Console.WriteLine("+");
 
@@ -89,5 +89,5 @@ Console.Clear();
 // count = count + 1;
 // }
 
-// доставать из коментов !!
+// доставать из коментов!! !!
 
