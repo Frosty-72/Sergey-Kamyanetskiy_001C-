@@ -88,3 +88,6 @@ Console.Clear();
 // Console.WriteLine("+");
 // count = count + 1;
 // }
+
+// доставать из коментов !!
+
